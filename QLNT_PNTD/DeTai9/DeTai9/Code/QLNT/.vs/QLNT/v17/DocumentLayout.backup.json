@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|d:\\qlnt_pntd\\qlnt_pntd\\detai9\\detai9\\code\\qlnt\\qlnt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\global\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\global\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QLNT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\global\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\global\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DeTai9_update_19_12_2019\\DeTai9\\DeTai9\\Code\\QLNT\\packages\\Microsoft.SqlServer.Types.11.0.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\qlnt\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD9C29F-890A-40DC-B84F-4408CCB4B8A9}|QLNT\\QLNT.csproj|solutionrelative:qlnt\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 470,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "In.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.cs",
+              "RelativeDocumentMoniker": "QLNT\\In.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.cs",
+              "RelativeToolTip": "QLNT\\In.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:55:43.97Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Global\\SQL.cs",
+              "RelativeDocumentMoniker": "QLNT\\Global\\SQL.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Global\\SQL.cs",
+              "RelativeToolTip": "QLNT\\Global\\SQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:53:49.855Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.cs",
+              "RelativeDocumentMoniker": "QLNT\\Login.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.cs",
+              "RelativeToolTip": "QLNT\\Login.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:24:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLNV.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\QLNV.cs",
+              "RelativeDocumentMoniker": "QLNT\\QLNV.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\QLNV.cs",
+              "RelativeToolTip": "QLNT\\QLNV.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:24:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Global\\Data.cs",
+              "RelativeDocumentMoniker": "QLNT\\Global\\Data.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Global\\Data.cs",
+              "RelativeToolTip": "QLNT\\Global\\Data.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:22:34.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "QLNT\\Login.Designer.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.Designer.cs",
+              "RelativeToolTip": "QLNT\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:21:32.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.cs",
+              "RelativeDocumentMoniker": "QLNT\\Login.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Login.cs [Design]",
+              "RelativeToolTip": "QLNT\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:33:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLNT",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\QLNT.csproj",
+              "RelativeDocumentMoniker": "QLNT\\QLNT.csproj",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\QLNT.csproj",
+              "RelativeToolTip": "QLNT\\QLNT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T06:33:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.rdlc [Design]",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Report.rdlc",
+              "RelativeDocumentMoniker": "QLNT\\Report.rdlc",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\Report.rdlc [Design]",
+              "RelativeToolTip": "QLNT\\Report.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-09-18T23:57:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\DeTai9_update_19_12_2019\\DeTai9\\DeTai9\\Code\\QLNT\\packages\\Microsoft.SqlServer.Types.11.0.0\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DeTai9_update_19_12_2019\\DeTai9\\DeTai9\\Code\\QLNT\\packages\\Microsoft.SqlServer.Types.11.0.0\\readme.txt",
+              "ToolTip": "D:\\DeTai9_update_19_12_2019\\DeTai9\\DeTai9\\Code\\QLNT\\packages\\Microsoft.SqlServer.Types.11.0.0\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DeTai9_update_19_12_2019\\DeTai9\\DeTai9\\Code\\QLNT\\packages\\Microsoft.SqlServer.Types.11.0.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-19T02:53:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "In.cs [Design]",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.cs",
+              "RelativeDocumentMoniker": "QLNT\\In.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.cs [Design]",
+              "RelativeToolTip": "QLNT\\In.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:54:10.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "In.Designer.cs",
+              "DocumentMoniker": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.Designer.cs",
+              "RelativeDocumentMoniker": "QLNT\\In.Designer.cs",
+              "ToolTip": "D:\\QLNT_PNTD\\QLNT_PNTD\\DeTai9\\DeTai9\\Code\\QLNT\\QLNT\\In.Designer.cs",
+              "RelativeToolTip": "QLNT\\In.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:24:24.025Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
